@@ -1,0 +1,32 @@
+[
+  {
+    "kode_wilayah":"001",
+    "kecamatan":"Kabanjahe",
+    "Jumlah":50
+  },
+  {
+    "kode_wilayah":"002",
+    "kecamatan":"Beratagi",
+    "Jumlah":100
+  },
+  {
+    "kode_wilayah":"003",
+    "kecamatan":"Barusjahe",
+    "Jumlah":60
+  },
+  {
+    "kode_wilayah":"004",
+    "kecamatan":"Tiga Panah",
+    "Jumlah":50
+  },
+  {
+    "kode_wilayah":"005",
+    "kecamatan":"Munthe",
+    "Jumlah":500
+  },
+  {
+    "kode_wilayah":"006",
+    "kecamatan":"Tigan Derket",
+    "Jumlah":650
+  }
+]
