@@ -1,28 +1,23 @@
 [
   {
-    "kode_wilayah":"001",
-    "kecamatan":"Kabanjahe",
-    "Jumlah":50
+    "ID":"001",
+    "NAME":"A",
   },
   {
-    "kode_wilayah":"002",
-    "kecamatan":"Beratagi",
-    "Jumlah":100
+    "ID":"002",
+    "NAME":"B",
   },
   {
-    "kode_wilayah":"003",
-    "kecamatan":"Barusjahe",
-    "Jumlah":60
+    "ID":"003",
+    "NAME":"C",
   },
   {
-    "kode_wilayah":"004",
-    "kecamatan":"Tiga Panah",
-    "Jumlah":50
+    "ID":"004",
+    "NAME":"D",
   },
   {
-    "kode_wilayah":"005",
-    "kecamatan":"Munthe",
-    "Jumlah":500
+    "ID":"005",
+    "NAME":"E",
   }
  
 ]
